@@ -6,7 +6,7 @@
 
 1. Töltse le a repositoryt.
 2. Állítsa be az oldal nyelvét magyarra.
-3. Hozzon létre egy 001.css CSS fájlt, minden CSS beállítást ebben a fájlban végezzen el.
+3. Hozzon létre egy style.css CSS fájlt, minden CSS beállítást ebben a fájlban végezzen el.
 4. A h1 elem számára állítson be középre igazítást.
 6. A h1 elem számára állítson be navy háttérszínt.
 7. A h1 elem szöveges tartalma legyen fehér színű.
