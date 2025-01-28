@@ -12,3 +12,5 @@
 7. A h1 elem szöveges tartalma legyen fehér színű.
 8. Tegye az egész tartalmat egy div elembe, majd állítson be container osztályjelölőt.
 9. A container div számára állítson be arany háttérszínt.
+
+![](minta_0001.png)
